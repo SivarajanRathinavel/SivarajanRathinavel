@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SivarajanRathinavel
-- 👀 I’m interested in Computer Programming
+- 👀 I’m interested in Developing Software Applications
 - 🌱 I’m currently learning Java Springboot along with Data Structures and algorithm
 - 💞️ I’m looking to collaborate on projects building using java, react and sql
 - 📫 How to reach me @sivarajanrathinavel|linkedin
