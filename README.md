@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SivarajanRathinavel
 - 👀 I’m interested in Developing Software Applications
-- 🌱 I’m currently learning Java Springboot along with Data Structures and algorithm
-- 💞️ I’m looking to collaborate on projects building using java, react and sql
+- 🌱 I’m currently learning Dot Net MVC Web Application Devlopment
+- 💞️ I’m looking to collaborate on projects building using .Net MVC, java, react and sql,Sql Server Graph Database
 - 📫 How to reach me @sivarajanrathinavel|linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm still a nut
